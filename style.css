@@ -2,14 +2,12 @@ img {
   height: auto;
   max-width: 100%;
   padding: 24px 15px;
-  margin-top: -10px;
+  margin-top: 50px;
 }
 
-.name {
-  
-}
 
-code {
+code
+ {
   background: transparent;
   border-radius: 6px;
   color: whitesmoke;
@@ -20,7 +18,7 @@ code {
   margin-top: -10px;
 }
 
-.group1,.group2 
+.group1
 {
 border-radius: 25% 10%;
 width: 100px;
@@ -30,4 +28,17 @@ margin: auto;
 
 body {
   background-color: black;
+}
+
+.group2 img
+{
+width: 200px;
+height: 200px;
+}
+
+.group2
+{
+  padding: 24px 15px;
+  text-align: center;
+  margin-top: 20px;
 }
