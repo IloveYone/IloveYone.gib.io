@@ -1,0 +1,33 @@
+img {
+  height: auto;
+  max-width: 100%;
+  padding: 24px 15px;
+  margin-top: -10px;
+}
+
+.name {
+  
+}
+
+code {
+  background: transparent;
+  border-radius: 6px;
+  color: whitesmoke;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 24px 15px;
+  text-align: center;
+  margin-top: -10px;
+}
+
+.group1,.group2 
+{
+border-radius: 25% 10%;
+width: 100px;
+height: 100px;
+margin: auto;
+}
+
+body {
+  background-color: black;
+}
